@@ -1,6 +1,57 @@
-myenv/
-venv/
-
+# Python cache
 *.log
-__pycache__/
 .DS_Store
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.myenv/
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and artifacts
+*.log
+logs/
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Datasets (you provide link instead)
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Plots, images, reports
+plots/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# MLflow/DVC/DagsHub artifacts (if locally created)
+mlruns/
+mlartifacts/
+.dvc/
+
+# Other temp files
+*.tmp
+*.bak
+
+# PyCharm/IDEA stuff
+.idea/
