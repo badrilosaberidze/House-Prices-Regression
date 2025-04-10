@@ -100,3 +100,6 @@ Random Forest-მ მოიპოვა საუკეთესო შედე
 - **Test RMSE**: 27,938.90  
 - **Test MAE**: 16,910.62  
 - **Test R²**: 0.8982
+
+### Kaggle კონკურსის ლინკი 
+> [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview](#)
